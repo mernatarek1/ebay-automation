@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://www.ebay.com/",
+  "browser": "chrome",
+  "homePageTitleContains": "eBay",
+  "searchTerm": "mazda mx-5",
+  "shipToZip": "10001",
+  "shipToCountryId": "1",
+  "filterName": "Transmission",
+  "filterValue": "Manual"
+}

@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="eBay Automation Suite">
+    <listeners>
+        <listener class-name="com.ebay.automation.listeners.TestListener"/>
+    </listeners>
+    <test name="eBay Search Flow">
+        <classes>
+            <class name="com.ebay.automation.tests.EbaySearchTest"/>
+        </classes>
+    </test>
+</suite>
